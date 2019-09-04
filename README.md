@@ -1,6 +1,8 @@
 ProjectAres
 ===========
 
+![Discord](https://img.shields.io/discord/86514356862320640?color=blue&label=Discord)
+
 Custom Bukkit/Bungee plugins used by the former Overcast Network
 
 **NOTE**: This repository is no longer maintained, but you can still contribute to [forks](https://github.com/OvercastNetwork/ProjectAres/network).
